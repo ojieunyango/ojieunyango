@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### 🛢 DataBase  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
-<img src ="mariadb-_bluet.png">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mariadb.svg" width="40" height="40" alt="MariaDB"/>
 
 #### 📚 etc  
 [![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
