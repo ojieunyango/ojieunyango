@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
 
 #### 🛢 DataBase  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev) <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="40" height="40" alt="MariaDB"/>
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="40" height="40" alt="MariaDB"/>
 
 #### 📚 etc  
 [![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
