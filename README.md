@@ -4,7 +4,7 @@
   👋 Welcome to <span style="color:#ff69b4">Jieun's GitHub</span>!
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌸+Web+Frontend+%7C+Backend+Developer;🌱+I%E2%80%99m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌸+Web+Frontend+%7C+Backend+Developer;🌱+I’m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
 </p>
 
 
