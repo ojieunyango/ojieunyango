@@ -40,11 +40,16 @@ Here are some ideas to get you started:
 #### 📚 etc  
 [![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
 
+## 🚀 Projects
 
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
 ![jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
+
+![Jieun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jieun&theme=react-dark)
 
 
 
