@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
 
-![Jieun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jieun&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jieun&theme=radical)
+
 
 
 
