@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 ### 🛠 Tech Stack
@@ -41,6 +39,12 @@ Here are some ideas to get you started:
 
 #### 📚 etc  
 [![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
+
+# Hi, I'm ojieunyango 👋
+
+![jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
 
 
 
