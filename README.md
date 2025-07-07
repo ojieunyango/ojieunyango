@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Jieun's github 👋
 
 <!--
 **ojieunyango/ojieunyango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 #### 📚 etc  
 [![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
 
-# Hi, I'm ojieunyango 👋
+
 
 ![jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical)
 
