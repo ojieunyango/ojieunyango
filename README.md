@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
-![ojieunyango's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
+![ojieunyango's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojieunyango&theme=radical)
 
