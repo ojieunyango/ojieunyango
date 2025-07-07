@@ -1,5 +1,17 @@
 ## Welcome to Jieun's github 👋
 
+<h3 align="center">
+  👋 Welcome to <span style="color:#ff69b4">Jieun's GitHub</span>!
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌸+Web+Frontend+%7C+Backend+Developer;🌱+I%E2%80%99m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ojieunyango&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ojieunyango&color=blueviolet)
+
+
 <!--
 **ojieunyango/ojieunyango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
