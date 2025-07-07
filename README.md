@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌸+Web+Frontend+%7C+Backend+Developer;🌱+I%E2%80%99m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ojieunyango&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ojieunyango&color=blueviolet)
 
@@ -62,6 +61,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojieunyango&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ojieunyango&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
