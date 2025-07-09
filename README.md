@@ -52,8 +52,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical" width="49%" />
 </p>
 
 <p align="center">
@@ -68,7 +68,9 @@
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
+📧 Email: **dlsl48@naver.com**
+
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
 ---
 
