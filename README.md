@@ -71,7 +71,6 @@
 - 📧 Email: **dlsl48@naver.com**  
   [![Email Button](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
-- 📘 Notion 이력서:  
-  [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/229787a3bae680c7907bc5b8ae6369e2?source=copy_link)
+
 
 ---
