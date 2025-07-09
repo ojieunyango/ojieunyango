@@ -1,67 +1,74 @@
-## Welcome to Jieun's github 👋
+## 👋 Welcome to Jieun's GitHub!
 
 <h3 align="center">
-  👋 Welcome to <span style="color:#ff69b4">Jieun's GitHub</span>!
+  🌸 Web Frontend | Backend Developer  
 </h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌸+Web+Frontend+%7C+Backend+Developer;🌱+I’m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=🌱+I’m+learning+MariaDB+and+Node.js;🚀+Always+curious+and+creating!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ojieunyango&color=blueviolet" alt="Visitor Count" />
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ojieunyango&color=blueviolet)
+---
 
+## 🛠 Tech Stack
 
-<!--
-**ojieunyango/ojieunyango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" />
+</p>
 
-Here are some ideas to get you started:
+### 🌐 Web Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,css,html" />
+</p>
 
-### 🛠 Tech Stack
+### 🧪 Web Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,java" />
+</p>
 
+### 🛢 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="40" height="40" alt="MariaDB" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,notion" />
+</p>
 
-
-
-
-
-### 🛠 Tech Stack
-
-#### 💻 Development Environment  
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,intellij)](https://skillicons.dev)
-
-#### 🌐 Web Front-End  
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,css,html)](https://skillicons.dev)
-
-#### 🧪 Web Back-End  
-[![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
-
-#### 🛢 DataBase  
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
-<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="40" height="40" alt="MariaDB"/>
-
-#### 📚 etc  
-[![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
+---
 
 ## 🚀 Projects
+👉 준비 중입니다! (Coming soon...)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojieunyango&theme=radical" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojieunyango&theme=dracula&margin-w=15&row=1" />
+</p>
+
+---
 
 ## 📫 Contact Me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
-![ojieunyango's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojieunyango&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ojieunyango&theme=dracula&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
+---
 
