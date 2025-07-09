@@ -51,10 +51,10 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical&hide_title=true" height="180px"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojieunyango&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojieunyango&layout=compact&theme=radical" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojieunyango&theme=radical" width="70%" />
@@ -68,9 +68,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **dlsl48@naver.com**  
-  [![Email Button](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
+📧 Email: **dlsl48@naver.com**
 
-
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlsl48@naver.com)
 
 ---
+
