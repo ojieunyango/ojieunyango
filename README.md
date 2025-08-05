@@ -45,8 +45,8 @@
 ---
 
 ## 🚀 Projects
-- [docker](https://github.com/ojieunyango/TourPlanner_Doker)
-- [team project](https://github.com/ojieunyango/TourPlanner_TeamProject)
+- [process of docker](https://github.com/ojieunyango/TourPlanner_Doker)
+- [team project for tour planner](https://github.com/ojieunyango/TourPlanner_TeamProject)
 ---
 
 ## 📈 GitHub Stats
