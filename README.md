@@ -45,8 +45,8 @@
 ---
 
 ## 🚀 Projects
-👉 준비 중입니다! (Coming soon...)
-
+- [docker](https://github.com/ojieunyango/TourPlanner_Doker)
+- [team project](https://github.com/ojieunyango/TourPlanner_TeamProject)
 ---
 
 ## 📈 GitHub Stats
